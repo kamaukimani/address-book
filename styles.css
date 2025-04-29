@@ -18,6 +18,7 @@ body{
 }
 input{
     color: black;
+    height: 30px;
 }
 #Tform{
     text-align: center;
